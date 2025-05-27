@@ -1,6 +1,6 @@
 ## Hi there, I'm Júlia!
 
-Computer Science student (:computer:)
+Computer Science student 💻
 
 ## About me
 
