@@ -11,5 +11,5 @@ Computer Science student 💻
 
 ## Languages and Tools:
 
-![rjuulia's GitHub stats](https://github-readme-stats.vercel.app/apirjuulia=anuraghazra)](https://github.com/rjuulia/github-readme-stats)
+[![rjuulia's GitHub stats](https://github-readme-stats.vercel.app/apirjuulia=anuraghazra)](https://github.com/rjuulia/github-readme-stats)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjuulia&layout=compact)
