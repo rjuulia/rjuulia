@@ -68,7 +68,6 @@ Plataforma de chat com **criptografia ponta a ponta (E2EE)** desenvolvida para g
 - HTML5 | CSS3 | JavaScript (ES6+)
 - Responsive Design (Vercel)
 
-```
 
 > **Objetivo**: Garantir privacidade total nas comunicações jurídicas, onde nem o servidor pode ler as mensagens.
 
@@ -105,6 +104,6 @@ Plataforma de chat com **criptografia ponta a ponta (E2EE)** desenvolvida para g
 
 <div align="center">
   
-  *Sempre em busca de aprendizado e novas experiências em tecnologia* ✨
+  *Sempre em busca de aprendizado e novas experiências em tecnologia*
   
 </div>
