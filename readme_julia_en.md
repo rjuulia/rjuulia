@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Júlia Rocha!
+[🇧🇷 Português](README.md) | [🇺🇸 English](README_EN.md)
+
+# Hi there, I'm Júlia!
 
 <div align="center">
   
