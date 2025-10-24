@@ -1,3 +1,5 @@
+[🇧🇷 Português](README.md) | [🇺🇸 English](README_EN.md)
+
 # 👋 Olá, eu sou a Júlia Rocha!
 
 <div align="center">
