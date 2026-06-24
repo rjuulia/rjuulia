@@ -83,14 +83,6 @@ Plataforma de chat com **criptografia ponta a ponta (E2EE)** desenvolvida para g
 
 </div>
 
----
-
-## Atualmente
-
-- Finalizando o projeto de **TCC** em Criptografia E2E
-- Curso de **Segurança da Informação**
-- Atuando como **Assistente de TI**
-- Aprendendo **Italiano** e **Espanhol**
 
 ---
 
