@@ -83,14 +83,6 @@ Chat platform with **end-to-end encryption (E2EE)** developed to ensure confiden
 
 </div>
 
----
-
-## Currently
-
-- Completing my **Capstone Project**
-- Taking an **Information Security** course
-- Working as an **IT Assistant**
-- Learning **Italian** and **Spanish**
 
 ---
 
